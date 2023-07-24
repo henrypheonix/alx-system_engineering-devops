@@ -1,5 +1,7 @@
- 
-n script that exports data in the CSV format
+#!/usr/bin/python3
+
+"""
+Python script that exports data in the CSV format
 """
 
 from requests import get
